@@ -1,5 +1,5 @@
 # Active Learning - imagePolicyWebhook
-==Goal: CKS Certification==
+**Goal: CKS Certification**
 
 Active learning is a learning style where learners engage with the material actively, through activities such as asking questions, participating in discussions, and applying the information they learn to real-world problems.
 This approach emphasizes the learner's role in constructing their knowledge rather than passively receiving it from the teacher or the material.
@@ -19,14 +19,11 @@ Active learning is thought to promote deeper understanding, critical thinking, a
 [Certificate Signing Requests](https://kubernetes.io/docs/reference/access-authn-authz/certificate-signing-requests/)
 
 # Example Solution
-::: warning
-WARNING!
 
-The solution is only for education. Don't use this in production! 
-You should use a policy engine like OPA or Kyverno in production.
-:::
+> :warning: WARNING!
+> The solution is only for education. Don't use this in production! 
+> You should use a policy engine like OPA or Kyverno in production.
 
-#
 I only wrote a simple proof of concept webhook and this step by step guide to learn for the CKS certification.
 I recommend that you do not use it. Instead, I encourage you to write your own webhook and documentation as part of your CKS certification journey. By attempting to solve this challenge on your own, you will gain a deeper understanding of the process.
 
